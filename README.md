@@ -1,4 +1,4 @@
-# DNAbinder: Prediction of DNA-Binding Proteins
+# DNAbinder: Identification of DNA-binding proteins using support vector machines and evolutionary profiles
 
 **DNAbinder** is a specialized computational resource developed to identify and analyze DNA-binding proteins from their amino acid sequences.
 These proteins are essential for fundamental biological processes, including gene expression regulation, DNA repair, and replication.
