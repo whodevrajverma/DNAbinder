@@ -14,7 +14,7 @@ Kumar, M., Gromiha, M. M., & Raghava, G. P. S. (2007).
 **Identification of DNA-binding proteins using support vector machines and evolutionary profiles.** *BMC Bioinformatics*, 8:463. 
 https://doi.org/10.1186/1471-2105-8-463
 
-This dataset can also be found on Zenodo
+This dataset can also be found on Zenodo https://doi.org/10.5281/zenodo.20094486
 
 ## About the Research
 
